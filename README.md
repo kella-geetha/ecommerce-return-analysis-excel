@@ -1,5 +1,7 @@
 # E-Commerce Return Analysis – Excel
+## Dashboard Preview
 
+![E-Commerce Return Analysis Dashboard](Excel%20project%20dashboard1.png)
 ## Project Overview
 
 This project analyzes e-commerce sales and return data using Microsoft Excel.
